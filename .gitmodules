@@ -1,0 +1,3 @@
+[submodule "lib/Speech-Enhancement-Pytorch"]
+	path = lib/Speech-Enhancement-Pytorch
+	url = git@github.com:ooshyun/Speech-Enhancement-Pytorch.git
